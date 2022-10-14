@@ -11,4 +11,5 @@
 <li>JavaScript</li>
 <li>Nim</li>
 <li>Bash</li>
+<li>Rust</li>
 </ol>
