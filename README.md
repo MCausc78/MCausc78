@@ -1,15 +1,4 @@
-# Profile
+Хз че вставить
 
-Топ 10 языков программирования общего назначения
-<ol>
-<li>C</li>
-<li>Язык ассемблера</li>
-<li>C#</li>
-<li>Ruby</li>
-<li>Java</li>
-<li>Go</li>
-<li>JavaScript</li>
-<li>Nim</li>
-<li>Bash</li>
-<li>Rust</li>
-</ol>
+![Статистика](https://github-readme-stats.vercel.app/api?username=MCausc78&show_icons=true&theme=github_dark)
+![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=MCausc78&layout=compact&theme=github_dark)
